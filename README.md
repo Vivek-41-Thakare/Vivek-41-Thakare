@@ -47,11 +47,9 @@ Computing.
 ---
 
 ### 📊 Data Science
-
 <p>
 <img src="https://skillicons.dev/icons?i=numpy" />
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
@@ -129,6 +127,14 @@ Computing.
 </p>
 
 ## 🥇 Hackathons
+
+-   Riverathon 1.0 -- National River Hackathon (**Finalist**)
+-   Ignition Hackverse
+-   National AI/ML Hackathon
+-   AI Hackathon for Product Management
+-   ENLIVEN 2
+-   Hack Synthesis 2.0
+-   SocioVision 8.0
 <p align="center">
 
 <img src="https://img.shields.io/badge/🏆%20Hackathons-7%20Participated-8A2BE2?style=for-the-badge"/>
@@ -140,14 +146,6 @@ Computing.
 <img src="https://img.shields.io/badge/💡%20Focus-Problem%20Solving-blue?style=for-the-badge"/>
 
 </p>
--   Riverathon 1.0 -- National River Hackathon (**Finalist**)
--   Ignition Hackverse
--   National AI/ML Hackathon
--   AI Hackathon for Product Management
--   ENLIVEN 2
--   Hack Synthesis 2.0
--   SocioVision 8.0
-
 ## 🌱 Currently Learning
 
 -   Advanced Machine Learning
