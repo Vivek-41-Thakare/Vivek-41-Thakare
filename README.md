@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Vivek Thakare
 <h1 align="center">Hi 👋, I'm Vivek Thakare</h1>
 
 <h3 align="center">
