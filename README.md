@@ -1,27 +1,86 @@
-# 💫 About Me:
-I am currently pursuing a degree in Artificial Intelligence and Machine Learning, driven by a strong interest in building intelligent systems that solve real-world problems. I am deeply curious about how data, algorithms, and models work together to enable machines to learn, adapt, and make decisions. Beyond academics, I actively explore practical applications of AI and ML through hands-on projects, automation, and experimentation, with a focus on creating scalable and impactful solutions. I am particularly interested in applying AI to improve efficiency, decision-making, and user experiences, and I am committed to continuously learning and evolving in this rapidly advancing field.
+# 👋 Hi, I'm Vivek Thakare
 
+### AI & Machine Learning Enthusiast \| Data Science Learner \| Cloud Explorer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vivek-thakare-a40a812b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshathakre518@gmail.com) 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vivek-41-Thakare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vivek-41-Thakare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Final-Year B.Tech student (Graduating 2027) specializing in
+Artificial Intelligence & Machine Learning. Passionate about solving
+real-world problems using AI, Machine Learning, Data Science and Cloud
+Computing.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vivek-41-Thakare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🎓 Education
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**B.Tech -- Artificial Intelligence & Machine Learning**\
+🎓 Final Year \| Expected Graduation: **2027**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vivek-41-Thakare&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=Vivek-41-Thakare&icon=0&color=0)](https://visitcount.itsvg.in)
+**Languages:** Python, C, C++\
+**AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, MLflow\
+**Data:** NumPy, Pandas, SciPy, Matplotlib, Plotly\
+**Databases:** MySQL, MongoDB\
+**Cloud:** AWS, Azure, Render\
+**Tools:** Jupyter, Anaconda, VS Code
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Internships
+
+-   **AI Developer Intern** -- Nextgen QuickHire Pvt. Ltd. (On-site,
+    2025)
+-   **AI-ML Virtual Internship** -- Google for Developers × AICTE ×
+    EduSkills (2024)
+-   **AWS Cloud Virtual Internship** -- AWS Academy × AICTE × EduSkills
+    (2025)
+-   **Machine Learning & Data Science Internship** -- EduSkills × AICTE
+    (2026)
+
+## 🏆 Certifications
+
+-   IBM SkillsBuild -- Data Analysis with Python
+-   Google Analytics Certification
+-   Java Development -- Dnyanyog Education
+
+## 🥇 Hackathons
+
+-   Riverathon 1.0 -- National River Hackathon (**Finalist**)
+-   Ignition Hackverse
+-   National AI/ML Hackathon
+-   AI Hackathon for Product Management
+-   ENLIVEN 2
+-   Hack Synthesis 2.0
+-   SocioVision 8.0
+
+## 🌱 Currently Learning
+
+-   Advanced Machine Learning
+-   Deep Learning
+-   MLOps (MLflow)
+-   AWS Cloud
+-   Japanese (JLPT N5)
+-   Data Structures & Algorithms
+
+## 🎯 Career Goals
+
+-   Build a successful career as an AI & Machine Learning Engineer.
+-   Develop scalable AI solutions.
+-   Expand expertise in ML, Data Science & MLOps.
+-   Contribute to open-source AI projects.
+-   Pursue advanced studies in AI.
+
+## 📫 Connect
+
+-   Email: vivekthakare4441@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/vivekthakare
+-   GitHub: https://github.com/Vivek-41-Thakare
+
+## 📊 GitHub Stats
+
+Replace with: -
+https://github-readme-stats.vercel.app/api?username=Vivek-41-Thakare&show_icons=true&theme=tokyonight -
+https://github-readme-streak-stats.herokuapp.com/?user=Vivek-41-Thakare&theme=tokyonight -
+https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&theme=tokyonight
+
+## 🐍 Snake Animation
+
+Create `.github/workflows/snake.yml` later and use:
+`https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake-dark.svg`
