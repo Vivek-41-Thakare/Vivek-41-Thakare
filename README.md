@@ -163,13 +163,6 @@ Computing.
 -   Contribute to open-source AI projects.
 -   Pursue advanced studies in AI.
 
-## 📫 Connect
-
--   Email: vivekthakare4441@gmail.com
--   LinkedIn: https://www.linkedin.com/in/vivekthakare
--   GitHub: https://github.com/Vivek-41-Thakare
-
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -187,3 +180,40 @@ Computing.
 <p align="center">
 <img src="https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vivekthakare4441@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vivekthakare">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vivek-41-Thakare">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:vivekthakare4441@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/vivekthakare">💼 LinkedIn</a> •
+<a href="https://github.com/Vivek-41-Thakare">💻 GitHub</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vivek-41-Thakare&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
