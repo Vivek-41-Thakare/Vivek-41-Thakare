@@ -101,10 +101,17 @@ Computing.
     (2025)
 -   **Machine Learning & Data Science Internship** -- EduSkills × AICTE
     (2026)
-    <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320">
-</p>
+   <p align="center">
 
+<img src="https://img.shields.io/badge/💼%20Professional%20Experience-Internships-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mode-On--Site-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mode-Virtual-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Completed-4%20Internships-brightgreen?style=for-the-badge"/>
+
+</p>
 ## 🏆 Certifications
 
 -   IBM SkillsBuild -- Data Analysis with Python
