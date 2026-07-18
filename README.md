@@ -16,7 +16,9 @@ I'm a Final-Year B.Tech student (Graduating 2027) specializing in
 Artificial Intelligence & Machine Learning. Passionate about solving
 real-world problems using AI, Machine Learning, Data Science and Cloud
 Computing.
-
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
 ## 🎓 Education
 
 **B.Tech -- Artificial Intelligence & Machine Learning**\
