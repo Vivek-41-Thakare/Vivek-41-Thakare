@@ -129,7 +129,17 @@ Computing.
 </p>
 
 ## 🥇 Hackathons
+<p align="center">
 
+<img src="https://img.shields.io/badge/🏆%20Hackathons-7%20Participated-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🥈%20Achievement-National%20Finalist-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀%20Innovation-AI%20%26%20ML-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💡%20Focus-Problem%20Solving-blue?style=for-the-badge"/>
+
+</p>
 -   Riverathon 1.0 -- National River Hackathon (**Finalist**)
 -   Ignition Hackverse
 -   National AI/ML Hackathon
