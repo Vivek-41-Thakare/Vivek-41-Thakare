@@ -85,7 +85,8 @@ Computing.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
-Create `.github/workflows/snake.yml` later and use:
-`https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake-dark.svg`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
