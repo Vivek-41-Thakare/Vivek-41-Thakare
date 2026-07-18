@@ -26,12 +26,72 @@ Computing.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, C, C++\
-**AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, MLflow\
-**Data:** NumPy, Pandas, SciPy, Matplotlib, Plotly\
-**Databases:** MySQL, MongoDB\
-**Cloud:** AWS, Azure, Render\
-**Tools:** Jupyter, Anaconda, VS Code
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,anaconda" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ## 💼 Internships
 
