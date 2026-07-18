@@ -118,7 +118,6 @@ Computing.
 -   Google Analytics Certification
 -   Java Development -- Dnyanyog Education
 -   <p align="center">
-
 <img src="https://img.shields.io/badge/📜%20Professional%20Certifications-Verified-blueviolet?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
