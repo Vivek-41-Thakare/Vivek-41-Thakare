@@ -169,8 +169,6 @@ Computing.
 -   LinkedIn: https://www.linkedin.com/in/vivekthakare
 -   GitHub: https://github.com/Vivek-41-Thakare
 
-## 📊 GitHub Stats
----
 
 # 📊 GitHub Analytics
 
@@ -183,24 +181,6 @@ Computing.
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&theme=tokyonight&hide_border=true"/>
   <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek-41-Thakare&theme=tokyonight"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek-41-Thakare&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-41-Thakare&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
