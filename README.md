@@ -8,7 +8,7 @@ AI & Machine Learning Engineer | Data Science Enthusiast | Cloud Explorer
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies" />
 </p>
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I'm a Final-Year B.Tech student (Graduating 2027) specializing in
 Artificial Intelligence & Machine Learning. Passionate about solving
@@ -17,7 +17,7 @@ Computing.
 <p align="center">
 <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
-## 🎓 Education
+ 🎓 Education
 
 **B.Tech -- Artificial Intelligence & Machine Learning**\
 🎓 Final Year \| Expected Graduation: **2027**
