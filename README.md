@@ -110,7 +110,7 @@ Computing.
 <img src="https://img.shields.io/badge/Completed-4%20Internships-brightgreen?style=for-the-badge"/>
 
 </p>
-## 🏆 Certifications
+🏆 Certifications
 
 -   IBM SkillsBuild -- Data Analysis with Python
 -   Google Analytics Certification
@@ -146,7 +146,7 @@ Computing.
 <img src="https://img.shields.io/badge/💡%20Focus-Problem%20Solving-blue?style=for-the-badge"/>
 
 </p>
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 
 -   Advanced Machine Learning
 -   Deep Learning
