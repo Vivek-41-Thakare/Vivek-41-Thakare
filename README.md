@@ -6,7 +6,7 @@ AI & Machine Learning Engineer | Data Science Enthusiast | Cloud Explorer
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies" />
-</p>
+</p> 
 
  👨‍💻 About Me
 
