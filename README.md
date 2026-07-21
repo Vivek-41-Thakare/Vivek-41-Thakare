@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivek Thakare</h1>
-
 <h3 align="center">
 AI & Machine Learning Engineer | Data Science Enthusiast | Cloud Explorer
 </h3>
