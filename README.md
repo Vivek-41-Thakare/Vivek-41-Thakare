@@ -9,7 +9,6 @@ AI & Machine Learning Engineer | Data Science Enthusiast | Cloud Explorer
 </p> 
 
  👨‍💻 About Me
- 
 I'm a Final-Year B.Tech student (Graduating 2027) specializing in
 Artificial Intelligence & Machine Learning. Passionate about solving
 real-world problems using AI, Machine Learning, Data Science and Cloud
