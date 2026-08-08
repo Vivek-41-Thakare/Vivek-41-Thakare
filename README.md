@@ -1,219 +1,198 @@
-<h1 align="center">Hi 👋, I'm Vivek Thakare</h1>
-
-<h3 align="center">
-AI & Machine Learning Engineer | Data Science Enthusiast | Cloud Explorer
-</h3>
+# Hi, I'm Vivek Thakare 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Cloud+Computing+Learner;Always+Learning+New+Technologies" />
-</p> 
-
- 👨‍💻 About Me
- 
-I'm a Final-Year B.Tech student (Graduating 2027) specializing in
-Artificial Intelligence & Machine Learning. Passionate about solving
-real-world problems using AI, Machine Learning, Data Science and Cloud
-Computing.
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+ML+Enthusiast;Machine+Learning+Developer;Generative+AI+Explorer;Data+Science+Enthusiast;Cloud+Computing+Learner" alt="Typing SVG" />
+  </a>
 </p>
- 🎓 Education
 
-**B.Tech -- Artificial Intelligence & Machine Learning**\
-🎓 Final Year \| Expected Graduation: **2027**
+<p align="center">
+  Final-Year B.Tech Student | Artificial Intelligence & Machine Learning
+</p>
 
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+<p align="center">
+  <a href="mailto:vivekthakare4441@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/vivekthakare">LinkedIn</a> •
+  <a href="https://github.com/Vivek-41-Thakare">GitHub</a>
 </p>
 
 ---
 
-### 🤖 AI / Machine Learning
+## 👨‍💻 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+I am a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning at JSPM University, Wagholi, Pune.
 
-<p>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-</p>
+I am passionate about Artificial Intelligence, Machine Learning, Generative AI, Data Science, Computer Vision, and Full-Stack Development.
+
+I enjoy building AI-powered applications, participating in hackathons, exploring emerging technologies, and solving real-world problems through software and machine learning.
 
 ---
 
-### 📊 Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=numpy" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
+## 🎓 Education
+
+**JSPM University, Wagholi, Pune**
+
+Bachelor of Technology (B.Tech) in Artificial Intelligence and Machine Learning
+
+**CGPA:** 7.0/10  
+**Expected Graduation:** May 2027
 
 ---
 
-### 🗄️ Databases
+## 💻 Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### Programming Languages
+Python • C++ • JavaScript • SQL
+
+### AI / Machine Learning
+Machine Learning • Deep Learning • Generative AI • Natural Language Processing • Computer Vision
+
+### Frameworks & Libraries
+TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV • MediaPipe
+
+### Web & Backend
+HTML • CSS • Flutter • FastAPI
+
+### Databases
+MySQL • MongoDB • Firebase
+
+### Developer Tools
+Git • GitHub • VS Code • Jupyter Notebook • Power BI
+
+### Cloud
+AWS
 
 ---
 
-### ☁️ Cloud
+## 💼 Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
+### AICTE & EduSkills
+**Machine Learning & Data Science Virtual Intern**  
+Apr 2026 – Jun 2026
 
-<p>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
+Built and evaluated Machine Learning models using Python and Scikit-learn, including data preprocessing, feature engineering, and model evaluation.
+
+### Nextgen QuickHire Pvt. Ltd. — Startup
+**AI Developer Intern**  
+Jun 2025 – Oct 2025 | Pune, Maharashtra
+
+Developed AI-powered applications using Python and Machine Learning techniques while contributing to model development, testing, and optimization.
+
+### AWS Academy
+**Cloud Virtual Intern**  
+Apr 2025 – Jun 2025
+
+Gained practical experience with AWS services including EC2, S3, IAM, cloud deployment, security, and scalable infrastructure concepts.
+
+### Google for Developers | AICTE & EduSkills
+**AI-ML Virtual Intern**  
+Apr 2024 – Jun 2024
+
+Applied Artificial Intelligence and Machine Learning concepts using Python through hands-on projects involving supervised and unsupervised learning.
 
 ---
 
-### 🛠️ Tools
+## 🚀 Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,anaconda" />
-</p>
+### Smart Travel Companion — Ongoing
 
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+**Flutter • FastAPI • MongoDB • Firebase • Gemini AI**
 
-## 💼 Internships
+An AI-powered travel companion integrating itinerary management, OCR-based booking extraction, Gemini AI recommendations, Google Maps, voice assistance, and expense tracking.
 
--   **AI Developer Intern** -- Nextgen QuickHire Pvt. Ltd. (On-site,
-    2025)
--   **AI-ML Virtual Internship** -- Google for Developers × AICTE ×
-    EduSkills (2024)
--   **AWS Cloud Virtual Internship** -- AWS Academy × AICTE × EduSkills
-    (2025)
--   **Machine Learning & Data Science Internship** -- EduSkills × AICTE
-    (2026)
-   <p align="center">
+🔗 **Repository:** Coming Soon
 
-<img src="https://img.shields.io/badge/💼%20Professional%20Experience-Internships-0A66C2?style=for-the-badge"/>
+### Smart Landslide Early Warning System
 
-<img src="https://img.shields.io/badge/Mode-On--Site-success?style=for-the-badge"/>
+**Python • TensorFlow • Pandas • NumPy**
 
-<img src="https://img.shields.io/badge/Mode-Virtual-orange?style=for-the-badge"/>
+Developed a Machine Learning-based early warning system using environmental and geographical parameters to identify landslide-prone regions and support disaster preparedness.
 
-<img src="https://img.shields.io/badge/Completed-4%20Internships-brightgreen?style=for-the-badge"/>
+🔗 **[View Project](https://github.com/Vivek-41-Thakare/orchids-resq--smart-landslide-early-war)**
 
-</p>
-🏆 Certifications
+### Hand Tracking AR
 
--   IBM SkillsBuild -- Data Analysis with Python
--   Google Analytics Certification
--   Java Development -- Dnyanyog Education
--   <p align="center">
-<img src="https://img.shields.io/badge/📜%20Professional%20Certifications-Verified-blueviolet?style=for-the-badge"/>
+**Python • OpenCV • MediaPipe • Computer Vision**
 
-<img src="https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+Developed a real-time hand tracking and gesture recognition application using OpenCV and MediaPipe for interactive AR-based computer vision experiences.
 
-<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+🔗 **[View Project](https://github.com/Vivek-41-Thakare/Hand-Tracking-AR)**
 
-<img src="https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+---
 
-</p>
+## 📜 Certifications
 
-## 🥇 Hackathons
+- Generative AI
+- Machine Learning
+- TensorFlow Fundamentals
+- Power BI
+- Data Analysis with Python — IBM SkillsBuild
+- Google Analytics
+- Java Development — Core Java, Spring Boot, JPA, Git, Maven & Microservices
 
--   Riverathon 1.0 -- National River Hackathon (**Finalist**)
--   Ignition Hackverse
--   National AI/ML Hackathon
--   AI Hackathon for Product Management
--   ENLIVEN 2
--   Hack Synthesis 2.0
--   SocioVision 8.0
-<p align="center">
+📄 **[View All Certificates](https://drive.google.com/drive/folders/1K7uFKHaptvxTQn92yiBdc6DqBoeilGtp?usp=sharing)**
 
-<img src="https://img.shields.io/badge/🏆%20Hackathons-7%20Participated-8A2BE2?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/🥈%20Achievement-National%20Finalist-gold?style=for-the-badge"/>
+## 🏆 Achievements & Hackathons
 
-<img src="https://img.shields.io/badge/🚀%20Innovation-AI%20%26%20ML-success?style=for-the-badge"/>
+### 🥇 Riverathon 1.0 — Finalist
 
-<img src="https://img.shields.io/badge/💡%20Focus-Problem%20Solving-blue?style=for-the-badge"/>
+Finalist in **Riverathon 1.0**, a National-Level River Hackathon organized by Amity University in collaboration with the National Mission for Clean Ganga, Ministry of Jal Shakti.
 
-</p>
- 🌱 Currently Learning
+### 🚀 Ignition Hackverse 2026
 
--   Advanced Machine Learning
--   Deep Learning
--   MLOps (MLflow)
--   AWS Cloud
--   Japanese (JLPT N5)
--   Data Structures & Algorithms
+Qualified for the **Ignition Hackverse 2026** National-Level Hackathon organized by PVG's COET&M, Pune.
 
-## 🎯 Career Goals
+### 💡 5+ Hackathons
 
--   Build a successful career as an AI & Machine Learning Engineer.
--   Develop scalable AI solutions.
--   Expand expertise in ML, Data Science & MLOps.
--   Contribute to open-source AI projects.
--   Pursue advanced studies in AI.
+Participated in **5+ National-Level Hackathons** including events organized by IIT Hyderabad, Army Institute of Technology, UEM Kolkata, and Product Space, focusing on AI/ML and real-world problem solving.
 
-# 📊 GitHub Analytics
+---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivek-41-Thakare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-41-Thakare&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek-41-Thakare&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-41-Thakare&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vivek-41-Thakare&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-41-Thakare&hide_border=true" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:vivekthakare4441@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vivekthakare">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vivek-41-Thakare">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="mailto:vivekthakare4441@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/vivekthakare">💼 LinkedIn</a> •
-<a href="https://github.com/Vivek-41-Thakare">💻 GitHub</a>
-
+  <a href="mailto:vivekthakare4441@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/vivekthakare">💼 LinkedIn</a> •
+  <a href="https://github.com/Vivek-41-Thakare">💻 GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek-41-Thakare&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <b>Building • Learning • Innovating with AI</b>
 </p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
