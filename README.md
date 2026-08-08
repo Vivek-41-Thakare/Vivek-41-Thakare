@@ -150,15 +150,6 @@ Participated in **5+ National-Level Hackathons** including events organized by I
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-41-Thakare&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-41-Thakare&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
