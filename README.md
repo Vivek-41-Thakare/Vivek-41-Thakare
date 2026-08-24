@@ -150,30 +150,6 @@ Participated in **5+ National-Level Hackathons** including events organized by I
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivek-41-Thakare&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-41-Thakare&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vivek-41-Thakare/Vivek-41-Thakare/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
