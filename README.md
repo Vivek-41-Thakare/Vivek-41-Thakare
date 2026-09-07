@@ -8,7 +8,7 @@
 <p align="center">
   Final-Year B.Tech Student | Artificial Intelligence & Machine Learning
 </p>
-juhuhi
+
 <p align="center">
   <a href="mailto:vivekthakare4441@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/vivekthakare">LinkedIn</a> •
