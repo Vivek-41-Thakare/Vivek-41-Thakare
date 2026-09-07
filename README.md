@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+ML+Enthusiast;Machine+Learning+Developer;Generative+AI+Explorer;Data+Science+Enthusiast;Cloud+Computing+Learner" alt="Typing SVG" />
   </a>
 </p>
-hhuhuhiuiu
+
 <p align="center">
   Final-Year B.Tech Student | Artificial Intelligence & Machine Learning
 </p>
